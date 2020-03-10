@@ -1,0 +1,1289 @@
+#arajin {
+background-color: white;
+ position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    
+
+}
+
+
+
+#arajin3 {
+    width: 10%;
+padding-left:  400px;
+    font-size: 17px;
+    font-weight: 600;
+    color: #0C0C17;
+    
+}
+
+
+#arajin2 {
+
+font-size: 22px;
+    font-weight: 600;
+    line-height: 32px;
+    color: #0C0C17;  
+}
+ 
+
+#erkrord {
+background-color: #000000;
+}
+
+#erkrord1 {
+border: none;
+}
+
+.erkrord2 {
+position: relative;
+    bottom:440px;
+    color: white;
+    font-size: 18px;
+
+}
+
+.erkrord3 {
+position: relative;
+    bottom:437px;
+    color: white;
+    font-weight: 600;
+    font-size: 70px;
+}
+
+.erkrord4 {
+
+    position: relative;
+    bottom:427px;
+    color: white;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+#erkrord5 {
+ position: relative;
+    bottom:407px;
+    color: #ffffff;
+    border: 1px solid white;
+    box-shadow: 0px 8px 15px rgba(12, 12, 23, 0.1);
+     font-size: 17px;
+    cursor: pointer;
+     font-weight: 600;
+    text-decoration: none;
+    padding: 11px 15px 11px 15px;
+}
+
+#errord {
+padding-bottom: 60px;
+    padding-top: 70px;
+    
+}
+
+
+
+#errord1::after {
+
+    content: "";
+    position: absolute;
+    display: block;
+    top: 0;
+    bottom: 23px;
+   left: 1.2%;
+    width: 8%;
+    margin: auto;
+    height: 2px;
+    background: #febd01;
+}
+
+
+#errord2 {
+
+    font-size: 14px;
+    letter-spacing: 2px;
+    font-weight: 400;
+   padding-top: 25px;
+    
+}
+
+
+#errord3 {
+padding-bottom: 60px;
+}
+
+
+#chorord3 {
+
+font-weight: bolder;
+    color: #0c0c17;
+    font-size: 26px;
+}
+
+#chorord4 {
+    
+color: #FFD553;
+      
+}
+
+#chorord5 {
+font-size: 19px;
+    color: #0c0c17;
+    font-weight: 500;
+    line-height: 1.2;
+
+}
+
+#chorord6 {
+
+    font-size: 15px;
+    color: #828282;
+    font-weight: 400;
+    line-height: 1.6;
+}
+
+
+
+#chorord7 {
+
+font-size: 15px;
+    color: #828282;
+    font-weight: 400;
+    line-height: 1.6;
+
+}
+
+
+#chorord8 {
+padding-left:10px;
+
+}
+
+#chorord9 {
+color: #0c0c17;
+    font-weight: bolder;
+    
+}
+
+#hingerord {
+padding-bottom: 60xp;
+    padding-top: 30px;
+
+    
+}
+
+#hingerord1 {
+
+list-style: none;
+    display: flex;
+    padding: 0;
+}
+
+#hingerord1 li {
+
+padding-right: 15px;
+    padding-left: 9px;
+    border: 1px solid  #0c0c17;
+    background-color: #0c0c17;
+    color: white;
+   margin: 0 3px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+    
+}
+
+#hingerord1 li:hover {
+cursor: pointer;
+    background-color: white;
+    color: #0c0c17;
+transition: ease all 0.7s;
+}
+
+
+/*
+#hingerord1 li:nth-child(1) {
+padding-left: 0;
+
+}
+*/
+
+
+#vecerord {
+padding-bottom: 60px;
+    padding-top: 60px;
+    background-color: #F5F8FD
+        
+}
+
+
+#vecerord1 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+    color: #0c0c17;
+}
+
+#vecerord2 {
+padding-bottom: 60px;
+    padding-top: 60px;
+    background-color: #F5F8FD
+
+}
+
+
+.feature-box-3 {
+border: 1px solid #eee;
+    background: #fff;
+    padding: 16% 10% 13%;
+    text-align: center;
+    border-radius: 5px;
+    position: relative;
+
+}
+
+
+.feature-box-3::after {
+
+content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 50px;
+    height: 2px;
+    background: #febd01;
+
+}
+
+
+#yoterord6 {
+
+    line-height: 90px;
+    font-size: 45px;
+    width: 90px;
+    height: 90px;
+    align-items: center;
+    color: #0c0c17;
+    
+}
+
+
+
+#yoterord6:hover {
+
+    cursor: pointer;
+}
+
+.feature-box-3:hover {
+cursor: pointer;
+
+}
+
+
+
+
+
+
+#yoterord61 {
+
+line-height: 90px;
+    font-size: 45px;
+    width: 90px;
+    height: 90px;
+    align-items: center;
+    color: #0c0c17;
+}
+
+/*
+#yoterord61::after {
+content: "";
+    position: absolute;
+    top: 24px;
+    left: 109px;
+    width: 60px;
+    height: 60px;
+    background: #febd01;
+    border-radius: 50%;
+    opacity: 0.2;
+
+}
+*/
+
+
+
+#uterord {
+padding-bottom: 60px;
+padding-top: 60px;
+}
+
+#innerord {
+padding-bottom: 60px;
+padding-top: 40px;
+}
+
+
+#innerord1 {
+font-weight: 700;
+    font-size: 35px;
+}
+
+
+#innerord1::after {
+content: "";
+    position: absolute;
+    bottom: 0;
+    top:49px;
+    left: 14px;
+    width: 45%;
+    height: 2px;
+    background: #febd01;
+}
+
+
+#innerord2 {
+color: #8E828A;
+    padding-top: 25px;
+}
+
+
+.progress {
+height: 5px;
+
+}
+
+
+.progress-bar {
+
+    background-color: #FEBD01
+}
+
+#progress1 {
+
+    position: relative;
+    bottom: 0px;
+    left: 464px;
+    width: 5%;
+    color: gray !important;
+}
+
+
+#progress2 {
+
+    position: relative;
+    bottom: 0px;
+    left: 373px;
+    width: 5%;
+    color: gray !important;
+}
+
+
+
+#progress3 {
+
+    position: relative;
+    bottom: 0px;
+    left: 433px;
+    width: 5%;
+    color: gray !important;
+}
+
+
+
+
+#progress4 {
+
+    position: relative;
+    bottom: 0px;
+    left: 445px;
+    width: 5%;
+    color: gray !important;
+}
+
+
+#pr {
+margin: 0 auto;
+  position: relative;
+    top: 26px;
+font-size: 16px;
+    color: #0c0c17;
+    font-weight: bolder;
+    
+}
+
+
+#tasnmek {
+
+padding-bottom: 60px;
+    padding-top: 80px;
+    background-color: #F5F8FD;
+
+}
+
+
+#tasnmek3 {
+font-weight: 700;
+    font-size: 35px;
+    color: #0c0c17;
+   text-align: center;
+    
+}
+
+#tasnmek3::after {
+content: "";
+    position: absolute;
+    bottom: 0;
+    top: 45px;
+    left: 533px;
+    width: 9%;
+    margin: auto;
+    height: 2px;
+    background: #febd01;
+
+}
+
+#tasnerku2 {
+
+    list-style: none;
+    display: flex;
+   padding-top: 50px;
+    margin-left: 255px;
+    
+    
+}
+
+#tasnerku2 li {
+ cursor: pointer;
+    margin: 0 15px;
+    color: #0c0c17;
+    position: relative;
+    padding: 5px 0;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: normal;
+}
+
+#tasnerku2 li:hover {
+cursor: pointer;
+    color: #febd01;
+    transition: ease all 0.1s;
+}
+
+
+#tasnerku2 li:first-child {
+color: #febd01;
+}
+
+
+
+@media screen and (max-width:1199px) {
+    #tasnerku2 {
+margin-left: 225px;
+
+    }
+    
+    #tasnmek3::after {
+left: 440px;
+width: 11%;
+    }
+
+    
+    #errord1::after {
+
+    
+   left: 1.2%;
+    width: 9%;
+}
+    .feature-box-3::after {
+          top: 9px;
+    left: 69px;
+    width: 64px;
+    height: 64px;
+    }
+    
+    #innerord1::after {
+
+        top:49px;
+    left: 14px;
+    width: 26%;
+}
+    
+    .progress {
+
+        width: 59%
+
+    }
+    
+    #progress1{
+ left: 475px;
+
+}
+    
+     #progress2{
+ left: 383px;
+
+}
+    #progress3 {
+
+        left: 442px;
+
+    }
+    
+     #progress4 {
+
+        left: 453px;
+
+    }
+}
+
+
+
+@media screen and (max-width:991px) {
+    #tasnerku2 {
+margin-left: 80px;
+
+    }
+    
+     #tasnmek3::after {
+left: 320px;
+width: 14%;
+    }
+    
+    #errord1::after {
+
+    
+   left: 1.5%;
+    width: 13%;
+    
+}
+    .feature-box-3::after {
+    top: 1px;
+    left: 27px;
+    width: 60px;
+    height: 60px;
+}
+    
+    #innerord1::after {
+
+        top:49px;
+    left: 14px;
+    width: 36%;
+}
+    
+    .progress {
+
+        width: 80%;
+
+    }
+    
+    
+    
+    
+    }
+
+
+
+
+
+
+
+@media screen and (max-width:767px) {
+    #tasnerku2 {
+margin-left: -5px;
+
+    }
+    
+     #tasnmek3::after {
+left: 233px;
+width: 18%;
+    }
+    
+    #errord1::after {
+
+    
+   left: 2%;
+    width: 17%;
+    
+}
+    
+    .feature-box-3::after {
+    top: 3px;
+    left: 7px;
+    width: 50px;
+    height: 50px;
+}
+   
+    #innerord1::after {
+
+        top:49px;
+    left: 14px;
+    width: 48%;
+}
+    .progress {
+
+        width: 100%;
+
+    }
+    
+    #progress1 {
+  left:438px;
+}
+    #progress2 {
+  left:354px;
+}
+    #progress3 {
+  left:409px;
+}
+    #progress4 {
+  left:418px;
+}
+    
+}
+
+
+
+@media screen and (max-width:575px) {
+    .feature-box-3::after {
+    top: 40px;
+    left: 165px;
+    width: 63px;
+    height: 63px;
+}
+    #innerord1::after {
+
+        top:49px;
+    left: 14px;
+    width: 48%;
+}
+    
+}
+
+
+@media screen and (max-width:562px) {
+    .feature-box-3::after {
+    top: 33px;
+    left: 160px;
+    width: 63px;
+    height: 63px;
+}
+}
+    
+@media screen and (max-width:549px) {
+
+    #tasnmek3::after {
+left: 223px;
+width: 18%;
+    }
+    
+    #errord1::after {
+
+    
+   left: 3%;
+    width: 17%;
+    
+}
+    
+    #innerord1::after {
+
+        top:49px;
+    left: 14px;
+    width: 48%;
+}
+    
+ #progress1 {
+  left:425px;
+}
+    #progress2 {
+  left:340px;
+}
+    #progress3 {
+  left:390px;
+}
+    #progress4 {
+  left:404px;
+}
+    
+}
+    
+
+    @media screen and (max-width:517px) {
+
+.feature-box-3::after {
+   top: 21px;
+    left: 145px;
+    width: 63px;
+    height: 63px;
+}
+        
+}
+    
+    
+
+@media screen and (max-width:513px) {
+    #tasnerku2 {
+padding-left: 0px;
+
+    }
+     #tasnmek3::after {
+left: 203px;
+width: 18%;
+    }
+
+}
+
+    @media screen and (max-width:500px) {
+
+    .feature-box-3::after {
+   top: 24px;
+    left: 137px;
+    width: 63px;
+    height: 63px;
+}
+        
+        #innerord1::after {
+
+        top:49px;
+    left: 14px;
+    width: 53%;
+}
+
+        #progress1 {
+  left:385px;
+}
+    #progress2 {
+  left:309px;
+}
+    #progress3 {
+  left:363px;
+}
+    #progress4 {
+  left:369px;
+}
+}
+    
+    
+    #p1 {
+width: 92%;
+        
+}
+
+    #p2 {
+width: 75%;
+} 
+    #p3 {
+width: 86%;
+}
+    #p4 {
+
+width: 88%;
+    }
+    
+    
+/*
+   #tasnyot2 {
+    position: relative;
+    bottom:46px;
+    color: white;
+    font-size: 20px;
+    background-color: #febd01;
+    padding-bottom: 17px;
+    padding-top: 10px;
+    padding-right: 196px;
+    width: 5%;
+    align-items: center;
+    display:none;
+
+}
+
+
+
+#tasnyot1:hover {
+cursor: pointer;
+    filter: grayscale(30%) brightness(80%)
+}
+
+
+
+#tasnyot12:hover {
+cursor: pointer;
+    filter: grayscale(30%) brightness(80%)
+}
+
+
+
+#tasnyot13:hover {
+cursor: pointer;
+    filter: grayscale(30%) brightness(80%)
+}
+
+
+
+
+
+#tasnyot1:hover + #tasnyot2 {
+cursor: pointer;
+    display: block;
+position: relative;
+    bottom:46px;
+    color: white;
+    font-size: 20px;
+    background-color: #febd01;
+    padding-bottom: 17px;
+    padding-top: 10px;
+    padding-right: 196px;
+    width: 5%;
+    align-items: center;
+
+}
+
+
+#tasnut2 {
+    position: relative;
+    bottom:46px;
+    color: white;
+    font-size: 20px;
+    background-color: #febd01;
+    padding-bottom: 17px;
+    padding-top: 10px;
+    padding-right: 196px;
+    width: 5%;
+    align-items: center;
+    display:none;
+
+}
+
+
+#tasnyot12:hover + #tasnut2{
+
+cursor: pointer;
+    display: block;
+ position: relative;
+    bottom:46px;
+    color: white;
+    font-size: 20px;
+    background-color: #febd01;
+    padding-bottom: 17px;
+    padding-top: 10px;
+    padding-right: 196px;
+    width: 5%;
+    align-items: center;
+}
+
+
+
+#tasninn2 {
+    position: relative;
+    bottom:46px;
+    color: white;
+    font-size: 20px;
+    background-color: #febd01;
+    padding-bottom: 17px;
+    padding-top: 2px;
+    padding-right: 196px;
+    width: 5%;
+    align-items: center;
+    display:none;
+
+}
+
+
+#tasninn {
+
+padding-bottom: 60px;
+}
+
+
+
+
+#tasnyot13:hover + #tasninn2 {
+
+cursor: pointer;
+    display: block;
+position: relative;
+    bottom:46px;
+    color: white;
+    font-size: 20px;
+    background-color: #febd01;
+    padding-bottom: 17px;
+    padding-top: 2px;
+    padding-right: 196px;
+    width: 5%;
+    align-items: center;
+}
+*/
+ 
+    
+#sec2 {
+
+background-color: #F5F8FD;
+}
+   
+#tasnut1:hover {
+filter: grayscale(100%) brightness(70%);
+}
+
+#tasnyot2:hover {
+    
+cursor: pointer;
+}
+
+
+#tasnyot2 {
+    transition: all .6s linear;
+}
+
+#tasnyot2:hover + ::after {
+    
+    content: "Our Photography";
+    position: absolute;
+    bottom: 0;
+    left: 15px;
+    width: 90%;
+    height: 40px;
+    background-color: darkorange;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    cursor: pointer;
+}
+    
+#tasnyot2:hover + ::before {
+    
+    content: "+";
+    position: absolute;
+    top: 70px;
+    left: 130px;
+    font-size: 100px;
+   color: white; 
+    z-index: 2;
+    font-weight: 300;
+}
+
+
+#qsan {
+
+padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:  #0c0c17;
+
+
+}
+
+
+#qsan1 {
+color: white;
+    font-weight: bolder;
+}
+
+
+#qsan2 {
+
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 40px;
+    padding-left: 40px;
+    background-color:  #0c0c17;
+    border: 1px solid white;
+}
+
+
+#qsan2:hover {
+
+background-color: white;
+    color: #0c0c17;
+    cursor: pointer;
+    transition: ease-in-out all 0.55s;
+}
+
+#qsanmek {
+
+padding-bottom: 60px;
+    padding-top: 60px;
+    background-color: #F5F8FD;
+    
+}
+
+#qsanmek2 {
+font-weight: bolder;
+    font-size: 35px;
+    text-align: center;
+    color: #0c0c17;
+}
+
+#car {
+padding-bottom: 60px;
+    padding-top: 60px;
+
+}
+
+#qsanerku {
+padding-bottom: 30px;
+padding-top: 30px;
+border: 1px solid white;
+ background-color: white;
+    
+}
+
+#qsanerku1 {
+padding-bottom: 30px;
+padding-top: 30px;
+border: 1px solid white;
+ background-color: white;
+  
+}
+
+
+#con {
+padding-bottom: 60px;
+padding-top: 60px;
+    
+}
+
+#nkar {
+width: 140px;
+    height: 105px;
+    border-radius: 50%;
+padding-left: 20px;
+    padding-right: 20px;
+}
+
+#li {
+
+position: relative;
+    top: 56px;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 1px solid #febd01;
+    background-color: white;
+    
+}
+
+#li:hover {
+
+cursor: pointer;
+    background-color: #febd01; 
+}
+
+
+#qsanereq {
+font-weight: bolder;
+    font-size: 35px;
+    text-align: center;
+    color: #0c0c17;
+padding-bottom: 60px;
+    padding-top: 80px;
+}
+
+#aaa:hover {
+    
+    transform: scale(1.1) ;
+    transition: ease all 0.85s;
+}
+
+.meta {
+display: inline-block;
+    border-left: 1px solid #ddd;
+    line-height: 15px;
+    margin: 0 0 0 6px;
+    padding: 0 0 0px 6px;
+    color: #828282;
+    font-size: 12px;
+}
+
+
+.date {
+
+    font-size: 12px;
+    color: #828282;
+    line-height: 15px;
+}
+
+#qsanchors {
+
+    padding: 10px 0 15px;
+    font-size: 22px;
+    font-weight: bolder;
+    color: #0c0c17;
+}
+
+#qsanchors:hover {
+cursor: pointer;
+    color: #febd01; 
+    
+}
+
+#qsanchors2 {
+font-size: 16px;
+    color: #828282;
+    line-height: 1.6;
+
+}
+
+#qsanchors3 {
+
+    font-size: 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: #febd01;
+    border-bottom: 2px solid currentColor;
+
+}
+
+#qsanchors3:hover {
+cursor: pointer;
+    color: #0c0c17;
+}
+
+#qsanhing {
+background-color: #F5F8FD;
+    padding-bottom: 60px;
+}
+
+
+#qsanhing1 {
+
+    font-weight: bolder;
+    font-size: 35px;
+    text-align: center;
+    color: #0c0c17;
+padding-bottom: 60px;
+    padding-top: 60px;
+}
+
+#qsanhing2 {
+font-size: 32px;
+    font-weight: bolder;
+color: #0c0c17;
+}
+
+
+
+#qsanhing3 {
+
+    font-size: 16px;
+    color: #828282;
+    line-height: 1.6;
+}
+
+
+#qsanhing4 {
+    border: 1px solid #DEE2E6;
+background-color: white;
+
+}
+
+#qsanhing5 {
+
+    padding-bottom: 60px;
+    padding-top: 60px;
+
+}
+
+#qsanhing6 {
+font-size: 60px;
+    color: #F3F3F3;
+    width: 10%;
+    padding-left: 60px;
+    
+}
+
+#text {
+
+height: 150px;
+}
+
+#qsanyot1 {
+font-size: 80%;
+    font-weight: 400;
+    color: #828282;
+    line-height: 1.6;
+}
+
+#qsanyot2 {
+    
+    border: 1px solid gray;
+    padding: 12px 28px;
+    text-align: center;
+    border-radius: 3px;
+    background: #febd01;
+    color: #ffffff;
+    border-color: #febd01;
+}
+
+#qsanyot {
+
+    padding-bottom: 60px;
+}
+
+#qsanut {
+background-color:#0c0c17;
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+
+#qsanut2 {
+
+    font-size: 43px;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    
+}
+
+#v {
+background-color:#0c0c17;
+}
+
+#qsanut3 {
+
+    padding-bottom: 60px;
+    padding-top: 30px;
+}
+
+#qsanut4 {
+color: #799999;
+    font-size: 14px;
+    list-style: none;
+    display: flex;
+    margin-right: 15px;
+    text-align: center;
+    width: 20%;
+    padding-left: 20vw;
+}
+
+
+#qsanut4 li {
+
+    margin-right: 35px;
+}
+
+#qsanut4 li:hover {
+
+    cursor: pointer;
+    color: white;
+    transition: ease all 0.4s;
+}
+
+#qsanut6 {
+
+border-top: 1px solid gray;
+    
+
+}
+
+#qsanut5 {
+    
+padding-top: 25px;
+text-align: center;
+    color: #999999;
+    
+    
+}
+
